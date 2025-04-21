@@ -10,7 +10,7 @@ const PolitiqueConfidentialite = () => {
                 <p>
                     Cette politique de confidentialité a pour objectif de vous informer sur la manière dont nous
                     collectons, utilisons, stockons et protégeons vos informations personnelles lors de votre navigation
-                    sur notre site web <strong>(www.entreprise-zaabi.fr)</strong>.
+                    sur notre site web.
                 </p>
                 <p>
                     Nous respectons votre vie privée et nous engageons à protéger vos données personnelles conformément
